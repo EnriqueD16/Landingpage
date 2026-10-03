@@ -123,7 +123,7 @@ a {
       rgba(9, 32, 48, 0.15) 40%,
       rgba(8, 28, 42, 0.85)
     ),
-    url("image/image\ 1.jpg")center / cover no-repeat;
+    url("img/image1.jpg")center / cover no-repeat;
 }
 
 .hero-content {
