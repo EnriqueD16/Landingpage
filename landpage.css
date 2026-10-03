@@ -114,9 +114,6 @@ a {
 }
 
 
-/* =========================
-   HERO
-========================= */
 
 .hero {
   min-height: 100vh;
@@ -152,9 +149,6 @@ a {
 }
 
 
-/* =========================
-   BUTTONS
-========================= */
 
 .btn {
   padding: 14px 28px;
@@ -209,9 +203,6 @@ a {
 }
 
 
-/* =========================
-   DESTINATION CARDS
-========================= */
 
 .destination-card {
   position: relative;
@@ -237,23 +228,22 @@ a {
 .palawan {
   height: 460px;
   background-image:
-    url("image/Palawan.jpg");
+    url("img/Palawan.jpg");
 }
 
 .boracay {
   background-image:
-    url("image/boracay.jpg");
+    url("img/boracay.jpg");
 }
 
 .cebu {
   background-image:
-    url("image/Cebu.jpg");
+    url("img/Cebu.jpg");
 }
 
 .siargao {
   background-image:
-    url(
-      "image/siargao.jpg");
+    url("img/siargao.jpg");
 }
 
 .card-content {
